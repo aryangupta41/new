@@ -1,4 +1,4 @@
-# MOLECOOL 🧪⚛️
+# MOLECOOL 🧪
 
 A fun, colorful, and cute 3D molecule builder built with Flutter!
 
