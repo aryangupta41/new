@@ -1,6 +1,9 @@
 # MOLECOOL 🧪
 
 A fun, colorful, and cute 3D molecule builder built with Flutter!!!
+A fun, colorful, and cute 3D molecule builder built with Flutter!!!
+A fun, colorful, and cute 3D molecule builder built with Flutter!!!
+A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 
 ## ✨ Features
 
