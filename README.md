@@ -49,13 +49,6 @@ A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 - Cute particle effects
 - Responsive controls
 
-### 🎯 **Interactive Features**
-- Cute emojis everywhere
-- Pop-up elements on hover
-- Pulsing selections
-- Floating animations
-- Glassmorphism UI panels
-- Smooth mode transitions
 
 ## 📱 Platforms
 
