@@ -47,7 +47,7 @@ A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 - Smooth animations throughout
 - Atom faces (^_^) that smile at you!
 - Cute particle effects
-- Responsive controls
+- Mera deewana ban gaye tuu meri dil ke paas ho
 
 
 ## 📱 Platforms
