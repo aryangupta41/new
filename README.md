@@ -6,14 +6,7 @@ A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 
 ## ✨ Features
-
-### 🎬 **Splash Screen**
-- 5-second animated intro with bouncing "MOLECOOL" title
-- Spinning atom emoji ⚛️
-- Gradient background with multiple colors
-- Loading progress bar
-- Smooth fade transition
-
+jhbvkughvlugv
 ### 🎮 **Two Main Modes**
 
 #### 🔬 **FreeLab Mode**
@@ -30,13 +23,7 @@ A fun, colorful, and cute 3D molecule builder built with Flutter!!!
   - Predictions: state (gas/liquid/solid) and polarity
 
 #### 📚 **Learning Mode**
-- 5 interactive lessons teaching chemistry basics:
-  1. Welcome to MOLECOOL!
-  2. What are Atoms?
-  3. The Periodic Table
-  4. What are Molecules?
-  5. Let's Build Together!
-- Each lesson has emoji, colorful content, and friendly tone
+- 5 interactive lessonsb j lhvgone
 - Progress indicators (dots)
 - Automatic transition to FreeLab after completion
 
