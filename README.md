@@ -6,7 +6,7 @@ A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 A fun, colorful, and cute 3D molecule builder built with Flutter!!!
 
 ## ✨ Features
-jhbvkughvlugv
+jhbvkughvlugvbbjjhgf
 ### 🎮 **Two Main Modesddndhdhdbbdgdgdvdv
 - Build molecules freely using the periodic table
 - 3D canvas with orbit controls (rotate, zoom, pan)
